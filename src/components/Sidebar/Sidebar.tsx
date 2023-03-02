@@ -30,7 +30,7 @@ function Sidebar() {
       <div className="sidebar__logo">
         <img src={images.logo} alt="logo" />
         <div className="sidebar-close" onClick={closeSidebar}>
-          <i className="fa-sharp fa-regular fa-minimize"></i>
+          <i className="fa-duotone fa-minus"></i>
         </div>
       </div>
       <div className="sidebar__menu">
